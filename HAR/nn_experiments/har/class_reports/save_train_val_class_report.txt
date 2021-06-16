@@ -1,0 +1,13 @@
+Classification Report:
+Time exported: 2021-06-12 19:23:46.328251
+Validation method: Validation split on Train data --> Evaluate on Test
+------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+     Class 0       0.88      1.00      0.94       496
+     Class 1       1.00      0.93      0.96       891
+     Class 2       1.00      1.00      1.00      1560
+
+    accuracy                           0.98      2947
+   macro avg       0.96      0.98      0.97      2947
+weighted avg       0.98      0.98      0.98      2947
